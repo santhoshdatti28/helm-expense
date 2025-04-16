@@ -1,0 +1,4 @@
+deployment: 
+  imageversion: 1.1.0 
+hpa: 
+  Utilization: 5 
